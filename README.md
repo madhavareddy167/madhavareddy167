@@ -25,9 +25,3 @@
 </p>
 
 ---
-
-### 📂 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [💡 Portfolio Website](https
