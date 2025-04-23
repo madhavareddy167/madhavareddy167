@@ -23,7 +23,6 @@
     <img height="300" src="https://leetcard.jacoblin.cool/Maddy__16247?theme=dark&font=Ubuntu&ext=contest" />
   </a>
 </div>
-### ⚔️ Coding Profiles
 
 <div align="center">
   <a href="https://github.com/madhavareddy167" target="_blank">
