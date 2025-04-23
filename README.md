@@ -23,6 +23,25 @@
     <img height="300" src="https://leetcard.jacoblin.cool/Maddy__16247?theme=dark&font=Ubuntu&ext=contest" />
   </a>
 </div>
+### ⚔️ Coding Profiles
+
+<div align="center">
+  <a href="https://github.com/madhavareddy167" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Maddy__16247/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/maddy_1624/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/maddy_1624" target="_blank">
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/madhavareddy127" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+</div>
 
 ---
 
