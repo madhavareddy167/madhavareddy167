@@ -89,9 +89,9 @@
 ## 📦 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/madhavareddy167?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/madhavareddy167?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/madhavareddy167?label=Public%20Repos&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/madhavareddy167?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/github/stars/madhavareddy167?style=for-the-badge&label=Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-blueviolet?style=for-the-badge" />
 </p>
 
 ---
@@ -99,7 +99,7 @@
 ## ⚡ Recent GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhavareddy167&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavareddy167&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
