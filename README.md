@@ -1,19 +1,22 @@
 
+<!-- 🟪 Animated Welcome Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Madhava%20Reddy&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=80&fontAlignY=38&descAlignY=53&descAlign=70.5" />
 </p>
 
+<!-- 🟦 Typing Bio -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=447FF7&center=true&vCenter=true&width=500&lines=Aspiring+Developer;DSA+%7C+Web+Dev+Learner;Open+to+Collaborations" alt="Typing SVG" />
 </p>
 
+<!-- ⚡ Developer GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="450"/>
 </p>
 
 ---
 
-### ⚔️ Coding Profiles
+## ⚔️ Coding Profiles
 
 <div align="center">
   <a href="https://codeforces.com/profile/madhavareddy127">
@@ -24,7 +27,8 @@
   </a>
 </div>
 
-<div align="center">
+<!-- 🔗 Social/Coding Links -->
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/madhavareddy167" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -44,7 +48,7 @@
 
 ---
 
-### 💻 IDEs I Use
+## 💻 IDEs I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -53,13 +57,13 @@
 
 ---
 
-### 🛠️ Languages & Tech Stack
+## 🛠️ Languages & Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -69,7 +73,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhavareddy167&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -77,12 +81,27 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavareddy167&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavareddy167&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+</p>
+
+---
+
+## 📦 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/madhavareddy167?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/madhavareddy167?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/madhavareddy167?label=Public%20Repos&style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=madhavareddy167&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=120&section=footer)
-
-
----
