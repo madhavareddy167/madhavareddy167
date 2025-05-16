@@ -1,6 +1,6 @@
 <!-- 🟪 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e5e6f&height=250&section=header&text=Madhava%20Reddy&desc=Aspiring%20Developer%20%7C%20Problem%20Solver&fontColor=ffffff&fontSize=60&fontAlignY=40&descAlignY=65&descAlign=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Madhava%20Reddy&desc=Aspiring%20Developer%20%7C%20Problem%20Solver&fontColor=ffffff&fontSize=60&fontAlignY=40&descAlignY=65&descAlign=70" />
 </p>
 
 <!-- 🟦 Typing Bio -->
@@ -93,9 +93,8 @@
 
 ---
 
-<!-- Footer Banner -->
+<!-- Footer Banner with original color -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e5e6f&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=120&section=footer"/>
 </p>
-
 
