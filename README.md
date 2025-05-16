@@ -1,4 +1,3 @@
-
 <!-- 🟪 Animated Welcome Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Madhava%20Reddy&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=22272E&fontSize=80&fontAlignY=38&descAlignY=53&descAlign=70.5" />
@@ -60,10 +59,9 @@
 ## 🛠️ Languages & Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -73,15 +71,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavareddy167&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhavareddy167&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavareddy167&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+  <!-- Top 4 langs, refreshed hourly -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavareddy167&layout=compact&langs_count=4&theme=tokyonight&cache_seconds=3600" />
+  <br/><br/>
+  <!-- Explicit badges to guarantee Docker shows up -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -105,3 +104,4 @@
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=120&section=footer)
+
