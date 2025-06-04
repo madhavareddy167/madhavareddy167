@@ -18,9 +18,10 @@
 ## ⚔️ Coding Profiles
 
 <div align="center">
-  <a href="https://codeforces.com/profile/madhavareddy127">
-    <img height="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavareddy127&theme=github_dark&force_username=true&border_color=404040" />
-  </a>
+ <a href="https://www.codechef.com/users/maddy_1624" target="_blank">
+  <img height="300" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
+</a>
+
   <a href="https://leetcode.com/u/Maddy__16247/">
     <img height="300" src="https://leetcard.jacoblin.cool/Maddy__16247?theme=dark&font=Ubuntu&ext=contest" />
   </a>
