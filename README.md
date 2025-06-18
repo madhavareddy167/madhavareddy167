@@ -39,9 +39,6 @@
   <a href="https://www.geeksforgeeks.org/user/maddy_1624/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/maddy_1624" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
-  </a>
   <a href="https://codeforces.com/profile/Maddy__1624" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 </a>
