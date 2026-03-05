@@ -1,10 +1,10 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=220&section=header&text=Madhava%20Reddy&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20%7C%20Microservices%20%7C%20React%20|%20Codeforces%20Expert&fontColor=22272E&fontSize=70&fontAlignY=38&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=220&section=header&text=Madhava%20Reddy&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20React&fontColor=22272E&fontSize=70&fontAlignY=38&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=447FF7&center=true&vCenter=true&width=900&lines=Associate+Engineer+%40+Virtusa;Java+%7C+Spring+Boot+%7C+Microservices+%7C+React;Codeforces+Expert+(1646)+%7C+1000%2B+DSA+Problems;Open+to+SDE+Opportunities+%26+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=447FF7&center=true&vCenter=true&width=900&lines=Associate+Engineer+%40+Virtusa;Backend+Engineering+%7C+APIs+%7C+Microservices;Codeforces+Expert+(1646)+%7C+1000%2B+DSA+Problems;Open+to+SDE+Opportunities+%26+Collaborations" />
 </p>
 
 <p align="center">
@@ -27,11 +27,14 @@
 
 ---
 
-## 👋 About Me
-- 💼 **Associate Engineer @ Virtusa** — Java Full Stack (Spring Boot + React)  
-- 🧠 **Codeforces Expert (1646)** | **1000+ DSA problems**  
-- ⚙️ Focus: **Backend Engineering**, **Microservices**, **APIs**, **System Design**  
-- 🏆 *Metro Navigator served as the base for a junior’s extended solution that won Smart India Hackathon*  
+## 👋 About
+I’m **Madhava Reddy**, a **Java Full Stack Developer** focused on building scalable backend services, clean REST APIs, and production-ready applications.
+
+**Highlights**
+- 💼 Associate Engineer @ **Virtusa** (Java Full Stack)
+- 🚀 Delivered **5+ REST APIs**, secured **15+ endpoints** with **JWT + RBAC**, and containerized **4 services** using **Docker**
+- 🧠 **Codeforces Expert (1646)** | **1000+ DSA problems**
+- ⚙️ Interests: **Microservices**, **Backend Engineering**, **System Design**
 
 ---
 
@@ -58,24 +61,9 @@
 
 ---
 
-## ⭐ Featured Repositories
-<p align="center">
-  <a href="https://github.com/madhavareddy167/AnimateText">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavareddy167&repo=AnimateText&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/madhavareddy167/METRO-NAVIGATOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavareddy167&repo=METRO-NAVIGATOR&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/madhavareddy167/JAVA-OOPS-MASTERY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavareddy167&repo=JAVA-OOPS-MASTERY&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/madhavareddy167/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavareddy167&repo=DSA&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+## 🚀 Projects Snapshot
+- **ANIMATETEXT** — Emotion-aware GIF recommendation using **Flask + Sentence-BERT + cosine similarity** (89% validation accuracy, <2s latency)
+- **METRO NAVIGATOR** — Metro routing using **Django + NetworkX + Dijkstra** (<1.3s routing on 1,000 nodes / 2,500 edges)
 
 ---
 
@@ -83,8 +71,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-22272E?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-22272E?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/Hibernate-22272E?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate%2FJPA-22272E?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-22272E?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT%20Security-22272E?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-22272E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-22272E?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-22272E?style=for-the-badge&logo=postgresql&logoColor=white"/>
